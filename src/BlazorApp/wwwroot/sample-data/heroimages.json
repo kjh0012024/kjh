@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
+    "src": "images/workspaces/kjh/src/BlazorApp/wwwroot/images/taegun.png",
     "alt": "woman with glasses holding a tablet"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
+    "src": "images/workspaces/kjh/src/BlazorApp/wwwroot/images/taegun.png",
     "alt": "gray abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "images/workspaces/kjh/src/BlazorApp/wwwroot/images/taegun.png",
     "alt": "desktop with books and laptop"
   }
 ]
